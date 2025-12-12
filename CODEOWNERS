@@ -1,0 +1,5 @@
+# The CODEOWNERS file is used by GitHub to auto-assign reviewers for PRs.
+# Each line is a file pattern followed by one or more owners.
+# For example: `docs/ @nithish12`
+
+* @ObsidianCipher
